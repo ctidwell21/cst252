@@ -1,0 +1,57 @@
+body {
+	background-color: beige;
+	font-family: sans-serif;
+	color: beige; 
+}
+
+h1 {
+	font-family: sans-serif;
+	color: beige;
+}
+
+h2 {
+	font-family: sans-serif;
+	color: beige;
+/*	background-color: teal; */
+}
+
+p {
+	font-family: sans-serif; 
+	color: beige;
+}
+
+img {
+	border-radius: 35px;
+}
+
+div {
+	border-radius: 35px;
+	padding: 20px;
+	margin: 55px;
+/*	border-style: dotted;*/
+  	color: beige;
+  	background-color: black; 
+}
+
+/*button {
+  background-color: beige;
+  border: none;
+  color: black;
+  padding: 10px 28px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px;
+  cursor: pointer;
+  font-size: 15px;
+  border-radius: 25px;
+}
+
+button:hover {background-color: beige}
+
+button:active {
+  background-color: beige;
+  box-shadow: 0 5px #666;
+  transform: translateY(3px);
+}
+*/
