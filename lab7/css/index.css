@@ -1,0 +1,30 @@
+body {
+	background-color: grey;
+}
+
+h1 {
+	font-family: verdana;
+	color: black;
+}
+
+h2 {
+	font-family: verdana;
+	color: black;
+}
+
+p {
+	font-family: verdana;
+}
+
+img {
+	border-radius: 15px;
+}
+
+div {
+	border-radius: 25px;
+	padding: 20px;
+	margin: 10px;
+    background-color: silver;
+    box-shadow: 10px 10px 15px black;
+  }
+
