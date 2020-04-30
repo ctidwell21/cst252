@@ -1,0 +1,99 @@
+/*.challenges, .results, .problems {
+  border: solid 1px #888;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 25px;
+}
+
+  .changed {
+    color: teal;
+  }
+
+  input[type="number"] {
+    width: 40px;
+  }
+
+  input[type="text"] {
+    width: 100px;
+  }
+
+  input#max {
+    width: 60px;
+  }
+
+  input, button {
+    font-size: 90%;
+  }
+
+  div#input, div#output {
+    border: solid 1px #ccc;
+    padding: 20px;
+  }*/
+
+body {
+	background-color: silver;
+	font-family: cambria;
+	color: black; 
+  text-align: center;
+}
+
+h1 { 
+	font-family: cambria; 
+	color: black; 
+  font-size: 40px; 
+  text-align: center;
+}
+
+h2 {
+	font-family: cambria;
+	color: black;
+  text-align: center;
+}
+
+/*p {
+  font-family: ; 
+  color: white;
+  color: teal;
+}*/
+
+img {
+	border-radius: 15px;
+  box-shadow: 15px 15px 15px black;
+}
+
+div {
+	border-radius: 35px;
+	padding: 15px;
+	margin: 50px;
+/*	border-style: dashed;*/
+  	color: beige;
+/*  	background-color: darkblue; */
+}
+
+button {
+  background-color: violet;
+  border: none;
+  color: black;
+  padding: 10px 28px;
+  text-align: left;
+  border-style: double;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  border-radius: 20px;
+}
+
+/*button:hover {background-color: silver}*/
+
+button:active {
+  background-color: gold;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+a {
+  color: black;
+  text-align: left;
+}
